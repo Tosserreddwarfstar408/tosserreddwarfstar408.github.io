@@ -7,7 +7,7 @@ permalink: /about/
 
 # About Me
 
-Hello! I'm **Subhash M**, a Software Engineer passionate about building scalable and user-friendly applications.
+Hello! I'm **Subhash M**, a Software Engineer passionate about building highly scalable applications.
 
 I have experience with:
 
