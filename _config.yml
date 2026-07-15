@@ -1,3 +1,9 @@
 title: Subhash M
 description: Cloud/DevOps Engineer Portfolio
 theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
